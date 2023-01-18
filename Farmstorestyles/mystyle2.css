@@ -1,0 +1,59 @@
+.alert-error{
+    background-color: red;
+}
+.shop-name{
+    font-size: 75px;
+    text-align: center;
+    background-color: rgb(207, 191, 171);
+    width: 100%;
+    height: 100px;
+    margin-bottom: -10px;
+}
+nav{
+    font-size: 19px;
+    height:47px;
+    background-color: rgb(252, 252, 252);
+    display:flex;
+    justify-content: space-between;
+    justify-content: center;
+    
+   
+
+}
+nav.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(225, 146, 130);
+    height: 35px;
+    padding: 8px 10px;
+
+}
+.register{
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background-color: rgb(207, 191, 171);
+    width: 400px;
+    margin-left:10px;
+    margin-top: 10px;
+    transition: translate(-50%,50%);
+    top:50%;
+    left:50%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+
+    
+}
+input{
+    box-sizing: border-box;
+    width: 100%;
+    font-size: 18px;
+    padding:3px 3px;
+    border-radius: 3px;
+    font-family: 'Poppins',sans-serif;
+    color: #4a4a4a;
+    box-shadow: 0 5px 30px rgb(225, 146, 130,0.4);
+
+}
+

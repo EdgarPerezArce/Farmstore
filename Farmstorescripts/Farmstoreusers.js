@@ -12,7 +12,6 @@ function displayFarmStoreUsers(usersArray){
             <td>${user.payment}</td>
             <td>${user.color}</td>
             <td>${user.email}</td>
-            <td>${user.password}</td>
             </tr>
             `;
             
